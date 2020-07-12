@@ -1,4 +1,4 @@
-# Eat The Burger! 
+# EatBurger
 
 # Overview
 
